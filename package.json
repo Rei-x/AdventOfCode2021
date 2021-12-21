@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "day-01": "ts-node src/day-01/solution.ts"
+    "setupNextDay": "ts-node src/utils/setupNextDay.ts",
+    "day-01": "ts-node src/day-01/solution.ts",
+    "day-02": "ts-node src/day-02/solution.ts"
   },
   "repository": {
     "type": "git",
