@@ -7,7 +7,8 @@
     "day-01": "ts-node src/day-01/solution.ts",
     "day-02": "ts-node src/day-02/solution.ts",
     "day-03": "ts-node src/day-03/solution.ts",
-    "day-04": "ts-node src/day-04/solution.ts"
+    "day-04": "ts-node src/day-04/solution.ts",
+    "day-05": "ts-node src/day-05/solution.ts"
   },
   "repository": {
     "type": "git",
